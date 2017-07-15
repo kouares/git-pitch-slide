@@ -1,4 +1,4 @@
-    imyframework scalaでサービスを開発して辛かったこと
+### Playframework scalaでサービスを開発して辛かったこと
 
 4月からPlayframeworkのキャッチアップを初めて
 6月にリリースするまでに辛いと感じたことなどなど・・・
