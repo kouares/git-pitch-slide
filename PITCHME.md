@@ -39,7 +39,7 @@
 ## 式展開
 
 - 文字列中での式展開
-  - before
+  - before  
   `Logger.debug("No.%d is %s".format(i+1, user.name))`
-  - after
+  - after  
   `Logger.debug(s"No.${i + 1} is ${user.name}")`
